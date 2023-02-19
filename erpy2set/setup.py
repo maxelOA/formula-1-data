@@ -1,6 +1,8 @@
 !pip install setuptools 
 python setup.py sdist bdist_wheel
 
+import sys
+import setuptools
 from setuptools import setup
 
 setup(name='erpy2set',
