@@ -3,10 +3,10 @@ pip3 install wheel setuptools pip --upgrade
 
 #!pip install sys
 #!pip install setuptools 
-!pip install numpy as np
-!pip install requests as r
-!pip install pandas as pd
-!pip install json
+pip install numpy as np
+pip install requests as r
+pip install pandas as pd
+pip install json
 
 python setup.py sdist bdist_wheel
 
