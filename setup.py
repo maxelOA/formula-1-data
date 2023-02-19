@@ -1,7 +1,7 @@
 !pip install sys
 !pip install setuptools 
 !pip install numpy
-python setup.py sdist bdist_wheel
+#python setup.py sdist bdist_wheel
 
 import sys
 import setuptools
