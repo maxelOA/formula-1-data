@@ -1,5 +1,8 @@
-!pip install sys
-!pip install setuptools 
+pip install wheel setuptools pip --upgrade
+pip3 install wheel setuptools pip --upgrade
+
+#!pip install sys
+#!pip install setuptools 
 !pip install numpy as np
 !pip install requests as r
 !pip install pandas as pd
